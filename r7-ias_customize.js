@@ -376,7 +376,7 @@
     });
 
     window.addEventListener("load", (e) => {
-        console.log("R7 IAS Customize Loaded 👋");
+        console.log("R7 IAS Customize Loaded 👀");
         pageLoad(true);
     });
 
